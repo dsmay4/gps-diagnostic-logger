@@ -1,0 +1,2 @@
+115200,26,3,0,1,0,0,100,100
+baud,escape,esc#,mode,verb,echo,ignoreRX,maxFilesize,maxFilenum
